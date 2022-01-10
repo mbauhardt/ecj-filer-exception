@@ -20,5 +20,5 @@ Open the folder `ecj-filer-exception` with IntelliJ. Click `Rebuild Project`. Op
 You should see the warning `[AutoValueCouldNotWrite] Could not write generated class org.example.AutoValue_Coffee: javax.annotation.processing.FilerException: Source file already exists : org.example.AutoValue_Coffee`.
 Normally, this shouldn't be the case like with `javac`.
 
-### 
+### Commandline
 Using the script `compile.sh` to compile the project with the eclipse compiler without any warnings.
