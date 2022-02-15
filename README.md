@@ -1,3 +1,6 @@
+> **_Note_** This issue is fixed with IntelliJ 2021.3.2
+
+
 # ecj-filer-exception
 demo project to demonstrate compilation failure with ecj incl. annotation processing
 
@@ -23,9 +26,4 @@ Normally, this shouldn't be the case like with `javac`.
 ### Commandline
 Using the script `compile.sh` to compile the project with the eclipse compiler without any warnings.
 
----
-**Note**
 
-This issue is fixed with IntelliJ 2021.3.2
-
----
