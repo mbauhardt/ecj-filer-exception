@@ -9,4 +9,10 @@ public abstract class Coffee {
 
    abstract boolean milk();
 
+   @AutoValue
+   static abstract class Spoon  {
+
+      abstract String material();
+   }
+
 }
