@@ -1,5 +1,7 @@
 > **_Note_** This issue is fixed with IntelliJ 2021.3.2
 
+> ** _Note-2_ ** This issue still exists with inner classes, not with fields only.
+
 
 # ecj-filer-exception
 demo project to demonstrate compilation failure with ecj incl. annotation processing
